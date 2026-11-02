@@ -1,0 +1,11 @@
+.vscode/
+Thumbs.db
+.DS_Store
+
+*.log
+tmp/
+
+config.local.php
+
+uploads/*
+!uploads/.gitkeep

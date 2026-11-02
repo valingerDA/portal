@@ -31,3 +31,50 @@ a {
 .btn-primary {
     background-color: #0af;
 }
+
+.services-container {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.services h2 {
+    font-size: 32px;
+    color: #222;
+    margin-bottom: 15px;
+}
+
+.services-description {
+    color: #666;
+    font-size: 16px;
+    margin-bottom: 40px;
+}
+
+.services-list {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    flex-wrap: wrap;
+}
+
+.service-card {
+    background: white;
+    padding: 30px 20px;
+    border-radius: 15px;
+    width: 220px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+}
+
+.service-icon {
+    font-size: 40px;
+    margin-bottom: 15px;
+}
+
+.service-card h3 {
+    color: #333;
+    margin-bottom: 12px;
+}
+
+.service-card p {
+    color: #777;
+    line-height: 1.6;
+}
