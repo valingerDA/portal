@@ -15,7 +15,7 @@
     </header>
 
     <main>
-        <h1>Portal "<?= 'My Not Myself' ?>"</h1>
+        <h1>Portal "<?= 'Мой портал' ?>"</h1>
 
         <a>Today is <?= date('d.m.Y') ?>, the server runs on PHP <?= PHP_VERSION ?>.</a>
         <div class="auth-buttons">
